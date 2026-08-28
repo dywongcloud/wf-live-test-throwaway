@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build --webpack",
-    "start": "next start -H 0.0.0.0 -p $PORT"
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "@open-workflow/world-redis": "file:./vendor/open-workflow-world-redis-0.1.2.tgz",
