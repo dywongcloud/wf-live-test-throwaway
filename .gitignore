@@ -1,0 +1,8 @@
+node_modules/
+.next/
+app/.well-known/workflow/v1/*.temp
+app/.well-known/workflow/v1/*.debug.json
+app/.well-known/workflow/v1/flow/*.temp
+app/.well-known/workflow/v1/flow/*.debug.json
+app/.well-known/workflow/v1/webhook/**/*.temp
+next-env.d.ts
